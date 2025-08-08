@@ -1,1 +1,8 @@
 # Incubyte-assessment
+
+# String Calculator (TDD Assignment)
+
+This is a solution for Incubyte’s TDD Assessment using JavaScript and Jest.
+
+## ✅ Features Implemented
+- Return 0 for empty string
