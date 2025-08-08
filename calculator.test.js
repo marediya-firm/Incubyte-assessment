@@ -7,3 +7,11 @@ test('returns 0 for empty string', () => {
 test('returns the number when only one number is provided', () => {
   expect(add("5")).toBe(5);
 });
+
+test('handles two comma-separated numbers', () => {
+  expect(add("1,2")).toBe(3);
+});
+
+test('returns sum of multiple comma-separated numbers', () => {
+  expect(add("1,2,3")).toBe(6);
+});
