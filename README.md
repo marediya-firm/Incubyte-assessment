@@ -8,3 +8,4 @@ This is a solution for Incubyte’s TDD Assessment using JavaScript and Jest.
 - Return 0 for empty string
 - Returns the number when only one number is provided
 - Add single and multiple comma-separated numbers
+- Support newlines as delimiters
